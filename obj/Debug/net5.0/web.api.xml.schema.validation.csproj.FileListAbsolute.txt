@@ -1,0 +1,66 @@
+D:\Artigo XML Shema\Projeto Teste\web.api.xml.schema.validation\bin\Debug\net5.0\appsettings.Development.json
+D:\Artigo XML Shema\Projeto Teste\web.api.xml.schema.validation\bin\Debug\net5.0\appsettings.json
+D:\Artigo XML Shema\Projeto Teste\web.api.xml.schema.validation\bin\Debug\net5.0\web.api.xml.schema.validation.exe
+D:\Artigo XML Shema\Projeto Teste\web.api.xml.schema.validation\bin\Debug\net5.0\web.api.xml.schema.validation.deps.json
+D:\Artigo XML Shema\Projeto Teste\web.api.xml.schema.validation\bin\Debug\net5.0\web.api.xml.schema.validation.runtimeconfig.json
+D:\Artigo XML Shema\Projeto Teste\web.api.xml.schema.validation\bin\Debug\net5.0\web.api.xml.schema.validation.runtimeconfig.dev.json
+D:\Artigo XML Shema\Projeto Teste\web.api.xml.schema.validation\bin\Debug\net5.0\web.api.xml.schema.validation.dll
+D:\Artigo XML Shema\Projeto Teste\web.api.xml.schema.validation\bin\Debug\net5.0\ref\web.api.xml.schema.validation.dll
+D:\Artigo XML Shema\Projeto Teste\web.api.xml.schema.validation\bin\Debug\net5.0\web.api.xml.schema.validation.pdb
+D:\Artigo XML Shema\Projeto Teste\web.api.xml.schema.validation\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Artigo XML Shema\Projeto Teste\web.api.xml.schema.validation\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Artigo XML Shema\Projeto Teste\web.api.xml.schema.validation\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Artigo XML Shema\Projeto Teste\web.api.xml.schema.validation\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Artigo XML Shema\Projeto Teste\web.api.xml.schema.validation\obj\Debug\net5.0\web.api.xml.schema.validation.csproj.AssemblyReference.cache
+D:\Artigo XML Shema\Projeto Teste\web.api.xml.schema.validation\obj\Debug\net5.0\web.api.xml.schema.validation.GeneratedMSBuildEditorConfig.editorconfig
+D:\Artigo XML Shema\Projeto Teste\web.api.xml.schema.validation\obj\Debug\net5.0\web.api.xml.schema.validation.AssemblyInfoInputs.cache
+D:\Artigo XML Shema\Projeto Teste\web.api.xml.schema.validation\obj\Debug\net5.0\web.api.xml.schema.validation.AssemblyInfo.cs
+D:\Artigo XML Shema\Projeto Teste\web.api.xml.schema.validation\obj\Debug\net5.0\web.api.xml.schema.validation.csproj.CoreCompileInputs.cache
+D:\Artigo XML Shema\Projeto Teste\web.api.xml.schema.validation\obj\Debug\net5.0\web.api.xml.schema.validation.MvcApplicationPartsAssemblyInfo.cs
+D:\Artigo XML Shema\Projeto Teste\web.api.xml.schema.validation\obj\Debug\net5.0\web.api.xml.schema.validation.MvcApplicationPartsAssemblyInfo.cache
+D:\Artigo XML Shema\Projeto Teste\web.api.xml.schema.validation\obj\Debug\net5.0\staticwebassets\web.api.xml.schema.validation.StaticWebAssets.Manifest.cache
+D:\Artigo XML Shema\Projeto Teste\web.api.xml.schema.validation\obj\Debug\net5.0\staticwebassets\web.api.xml.schema.validation.StaticWebAssets.xml
+D:\Artigo XML Shema\Projeto Teste\web.api.xml.schema.validation\obj\Debug\net5.0\scopedcss\bundle\web.api.xml.schema.validation.styles.css
+D:\Artigo XML Shema\Projeto Teste\web.api.xml.schema.validation\obj\Debug\net5.0\web.api.xml.schema.validation.RazorTargetAssemblyInfo.cache
+D:\Artigo XML Shema\Projeto Teste\web.api.xml.schema.validation\obj\Debug\net5.0\web.api.xml.schema.validation.csproj.CopyComplete
+D:\Artigo XML Shema\Projeto Teste\web.api.xml.schema.validation\obj\Debug\net5.0\web.api.xml.schema.validation.dll
+D:\Artigo XML Shema\Projeto Teste\web.api.xml.schema.validation\obj\Debug\net5.0\ref\web.api.xml.schema.validation.dll
+D:\Artigo XML Shema\Projeto Teste\web.api.xml.schema.validation\obj\Debug\net5.0\web.api.xml.schema.validation.pdb
+D:\Artigo XML Shema\Projeto Teste\web.api.xml.schema.validation\obj\Debug\net5.0\web.api.xml.schema.validation.genruntimeconfig.cache
+D:\Artigo XML Shema\Projeto Teste\web.api.xml.schema.validation\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\Artigo XML Shema\Projeto Teste\web.api.xml.schema.validation\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Artigo XML Shema\Projeto Teste\web.api.xml.schema.validation\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Artigo XML Shema\Projeto Teste\web.api.xml.schema.validation\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+D:\Artigo XML Shema\web.api.xml.schema.validation\bin\Debug\net5.0\appsettings.Development.json
+D:\Artigo XML Shema\web.api.xml.schema.validation\bin\Debug\net5.0\appsettings.json
+D:\Artigo XML Shema\web.api.xml.schema.validation\bin\Debug\net5.0\web.api.xml.schema.validation.exe
+D:\Artigo XML Shema\web.api.xml.schema.validation\bin\Debug\net5.0\web.api.xml.schema.validation.deps.json
+D:\Artigo XML Shema\web.api.xml.schema.validation\bin\Debug\net5.0\web.api.xml.schema.validation.runtimeconfig.json
+D:\Artigo XML Shema\web.api.xml.schema.validation\bin\Debug\net5.0\web.api.xml.schema.validation.runtimeconfig.dev.json
+D:\Artigo XML Shema\web.api.xml.schema.validation\bin\Debug\net5.0\web.api.xml.schema.validation.dll
+D:\Artigo XML Shema\web.api.xml.schema.validation\bin\Debug\net5.0\ref\web.api.xml.schema.validation.dll
+D:\Artigo XML Shema\web.api.xml.schema.validation\bin\Debug\net5.0\web.api.xml.schema.validation.pdb
+D:\Artigo XML Shema\web.api.xml.schema.validation\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\Artigo XML Shema\web.api.xml.schema.validation\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Artigo XML Shema\web.api.xml.schema.validation\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Artigo XML Shema\web.api.xml.schema.validation\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Artigo XML Shema\web.api.xml.schema.validation\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+D:\Artigo XML Shema\web.api.xml.schema.validation\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Artigo XML Shema\web.api.xml.schema.validation\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Artigo XML Shema\web.api.xml.schema.validation\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Artigo XML Shema\web.api.xml.schema.validation\obj\Debug\net5.0\web.api.xml.schema.validation.csproj.AssemblyReference.cache
+D:\Artigo XML Shema\web.api.xml.schema.validation\obj\Debug\net5.0\web.api.xml.schema.validation.GeneratedMSBuildEditorConfig.editorconfig
+D:\Artigo XML Shema\web.api.xml.schema.validation\obj\Debug\net5.0\web.api.xml.schema.validation.AssemblyInfoInputs.cache
+D:\Artigo XML Shema\web.api.xml.schema.validation\obj\Debug\net5.0\web.api.xml.schema.validation.AssemblyInfo.cs
+D:\Artigo XML Shema\web.api.xml.schema.validation\obj\Debug\net5.0\web.api.xml.schema.validation.csproj.CoreCompileInputs.cache
+D:\Artigo XML Shema\web.api.xml.schema.validation\obj\Debug\net5.0\web.api.xml.schema.validation.MvcApplicationPartsAssemblyInfo.cs
+D:\Artigo XML Shema\web.api.xml.schema.validation\obj\Debug\net5.0\web.api.xml.schema.validation.MvcApplicationPartsAssemblyInfo.cache
+D:\Artigo XML Shema\web.api.xml.schema.validation\obj\Debug\net5.0\staticwebassets\web.api.xml.schema.validation.StaticWebAssets.Manifest.cache
+D:\Artigo XML Shema\web.api.xml.schema.validation\obj\Debug\net5.0\staticwebassets\web.api.xml.schema.validation.StaticWebAssets.xml
+D:\Artigo XML Shema\web.api.xml.schema.validation\obj\Debug\net5.0\scopedcss\bundle\web.api.xml.schema.validation.styles.css
+D:\Artigo XML Shema\web.api.xml.schema.validation\obj\Debug\net5.0\web.api.xml.schema.validation.RazorTargetAssemblyInfo.cache
+D:\Artigo XML Shema\web.api.xml.schema.validation\obj\Debug\net5.0\web.api.xml.schema.validation.csproj.CopyComplete
+D:\Artigo XML Shema\web.api.xml.schema.validation\obj\Debug\net5.0\web.api.xml.schema.validation.dll
+D:\Artigo XML Shema\web.api.xml.schema.validation\obj\Debug\net5.0\ref\web.api.xml.schema.validation.dll
+D:\Artigo XML Shema\web.api.xml.schema.validation\obj\Debug\net5.0\web.api.xml.schema.validation.pdb
+D:\Artigo XML Shema\web.api.xml.schema.validation\obj\Debug\net5.0\web.api.xml.schema.validation.genruntimeconfig.cache

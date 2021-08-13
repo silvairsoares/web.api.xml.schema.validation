@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<xsd:include schemaLocation="TEndereco.xsd"/>
+	<xsd:element name="pessoa">
+		<xsd:complexType>
+			<xsd:sequence>
+				<xsd:element name="nome">
+					<xsd:simpleType>
+						<xsd:restriction base="xsd:string">
+							<xsd:maxLength value = "20"/>
+							<xsd:minLength value = "2"/>
+						</xsd:restriction>
+					</xsd:simpleType>
+				</xsd:element>
+				<xsd:element name="sobrenome">
+					<xsd:simpleType>
+						<xsd:restriction base="xsd:string">
+							<xsd:maxLength value = "20"/>
+							<xsd:minLength value = "2"/>
+						</xsd:restriction>
+					</xsd:simpleType>
+				</xsd:element>
+				<xsd:element name="endereco" minOccurs="1" maxOccurs="1" type="TEndereco"/>
+			</xsd:sequence>
+		</xsd:complexType>
+	</xsd:element>
+</xsd:schema>
