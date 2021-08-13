@@ -151,7 +151,7 @@ namespace web.api.xml.schema.validation.Services.Servicos
             return "";
         }
 
-                /// <summary>
+        /// <summary>
         /// Altera o texto das mensagens de validação do schema, de inglês para português
         /// </summary>
         private static string TraduzMensagensDeErro(string mensagem)
