@@ -34,7 +34,7 @@ namespace web.api.xml.schema.validation.Services.Servicos
         /// <summary>
         /// Executa a validação de schema do XML do tipo "TPessoa", com base nos arquivos .xsd
         /// </summary>
-        private string ValidarXmlPessoa(XmlDocument dadosNFe)
+        private string ValidarXmlPessoa(XmlDocument dadosFe)
         {
             string retorno = "";
             // Inclui os shemas XSD para validação do documento do tipo "TPessoa" e suas dependências
@@ -43,9 +43,6 @@ namespace web.api.xml.schema.validation.Services.Servicos
             {                
                 XSDFiles.Add(@"Services\XMLValidation\Shemas\TPessoa.xsd");
                 XSDFiles.Add(@"Services\XMLValidation\Shemas\TEndereco.xsd");
-                //XSDFiles.Add(@"Services\XMLValidation\Shemas\TiposBasicos.xsd");                
-                //XSDFiles.Add(@"Services\XMLValidation\Shemas\produto.xsd");
-                //XSDFiles.Add(@"Services\XMLValidation\Shemas\produto.xsd");
             }
             catch (Exception ex)
             {
@@ -53,7 +50,7 @@ namespace web.api.xml.schema.validation.Services.Servicos
             }
 
             // Aciona o método genérico de validações de schemas, mas que neste contexto, estará validando apenas os tipos "TEndereco" e "TPessoa"
-            List<string> validacao = ValidarDocumentoXML(dadosNFe, XSDFiles).ToList();
+            List<string> validacao = ValidarDocumentoXML(dados, XSDFiles).ToList();
 
             if (validacao.Count > 0)
             {
