@@ -34,7 +34,7 @@ namespace web.api.xml.schema.validation.Services.Servicos
         /// <summary>
         /// Executa a validação de schema do XML do tipo "TPessoa", com base nos arquivos .xsd
         /// </summary>
-        private string ValidarXmlPessoa(XmlDocument dadosFe)
+        private string ValidarXmlPessoa(XmlDocument dados)
         {
             string retorno = "";
             // Inclui os shemas XSD para validação do documento do tipo "TPessoa" e suas dependências
