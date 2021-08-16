@@ -41,11 +41,8 @@ namespace web.api.xml.schema.validation.Services.Servicos
             ICollection<string> XSDFiles = new List<String>();
             try
             {                
-                XSDFiles.Add(@"Services\XMLValidation\Shemas\TPessoa.xsd");
-                XSDFiles.Add(@"Services\XMLValidation\Shemas\TEndereco.xsd");
-                //XSDFiles.Add(@"Services\XMLValidation\Shemas\TiposBasicos.xsd");                
-                //XSDFiles.Add(@"Services\XMLValidation\Shemas\produto.xsd");
-                //XSDFiles.Add(@"Services\XMLValidation\Shemas\produto.xsd");
+                XSDFiles.Add(@"Services\XMLValidation\Schemas\TPessoa.xsd");
+                XSDFiles.Add(@"Services\XMLValidation\Schemas\TEndereco.xsd");
             }
             catch (Exception ex)
             {

@@ -412,11 +412,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Artigo XML Shema\\web.api.xml.schema.validation\\web.api.xml.schema.validation.csproj",
+      "projectUniqueName": "D:\\Artigo XML Shema\\Projeto Teste\\web.api.xml.schema.validation\\web.api.xml.schema.validation.csproj",
       "projectName": "web.api.xml.schema.validation",
-      "projectPath": "D:\\Artigo XML Shema\\web.api.xml.schema.validation\\web.api.xml.schema.validation.csproj",
+      "projectPath": "D:\\Artigo XML Shema\\Projeto Teste\\web.api.xml.schema.validation\\web.api.xml.schema.validation.csproj",
       "packagesPath": "C:\\Users\\silvairls\\.nuget\\packages\\",
-      "outputPath": "D:\\Artigo XML Shema\\web.api.xml.schema.validation\\obj\\",
+      "outputPath": "D:\\Artigo XML Shema\\Projeto Teste\\web.api.xml.schema.validation\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
