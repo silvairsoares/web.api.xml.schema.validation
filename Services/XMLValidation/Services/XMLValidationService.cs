@@ -34,7 +34,7 @@ namespace web.api.xml.schema.validation.Services.Servicos
         /// <summary>
         /// Executa a validação de schema do XML do tipo "TPessoa", com base nos arquivos .xsd
         /// </summary>
-        private string ValidarXmlPessoa(XmlDocument dadosNFe)
+        private string ValidarXmlPessoa(XmlDocument dados)
         {
             string retorno = "";
             // Inclui os shemas XSD para validação do documento do tipo "TPessoa" e suas dependências
@@ -50,7 +50,7 @@ namespace web.api.xml.schema.validation.Services.Servicos
             }
 
             // Aciona o método genérico de validações de schemas, mas que neste contexto, estará validando apenas os tipos "TEndereco" e "TPessoa"
-            List<string> validacao = ValidarDocumentoXML(dadosNFe, XSDFiles).ToList();
+            List<string> validacao = ValidarDocumentoXML(dados, XSDFiles).ToList();
 
             if (validacao.Count > 0)
             {
@@ -151,7 +151,7 @@ namespace web.api.xml.schema.validation.Services.Servicos
             return "";
         }
 
-                /// <summary>
+        /// <summary>
         /// Altera o texto das mensagens de validação do schema, de inglês para português
         /// </summary>
         private static string TraduzMensagensDeErro(string mensagem)
