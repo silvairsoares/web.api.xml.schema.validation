@@ -10,5 +10,7 @@ obj/
 # Common node modules locations
 /node_modules
 /wwwroot/node_modules
+bin/Debug/net5.0
+/bin/Debug/net5.0
 
 # End of https://www.toptal.com/developers/gitignore/api/dotnetcore
